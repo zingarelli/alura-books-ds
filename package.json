@@ -35,7 +35,7 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "alurabooks-ds",
+    "name": "zingarelli-alurabooks-ds",
     "author": "Matheus Ricardo Uihara Zingarelli",
     "module": "dist/alurabooks-ds.esm.js",
     "size-limit": [

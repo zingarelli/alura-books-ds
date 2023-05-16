@@ -1,3 +1,15 @@
+# v0.2.3 (Tue May 16 2023)
+
+#### ⚠️ Pushed to `main`
+
+- change yarn to npm commands ([@zingarelli](https://github.com/zingarelli))
+
+#### Authors: 1
+
+- Matheus Ricardo Uihara Zingarelli ([@zingarelli](https://github.com/zingarelli))
+
+---
+
 # v0.2.2 (Tue May 16 2023)
 
 #### ⚠️ Pushed to `main`

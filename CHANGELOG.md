@@ -1,3 +1,17 @@
+# v0.2.4 (Thu May 18 2023)
+
+#### ⚠️ Pushed to `main`
+
+- change node version to deploy on vercel ([@zingarelli](https://github.com/zingarelli))
+- add vercel config to deploy storybook ([@zingarelli](https://github.com/zingarelli))
+- add component: AbQuantityInput ([@zingarelli](https://github.com/zingarelli))
+
+#### Authors: 1
+
+- Matheus Ricardo Uihara Zingarelli ([@zingarelli](https://github.com/zingarelli))
+
+---
+
 # v0.2.3 (Tue May 16 2023)
 
 #### ⚠️ Pushed to `main`

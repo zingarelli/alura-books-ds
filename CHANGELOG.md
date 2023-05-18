@@ -1,3 +1,16 @@
+# v0.2.5 (Thu May 18 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/zingarelli/alura-books-ds ([@zingarelli](https://github.com/zingarelli))
+- update readme ([@zingarelli](https://github.com/zingarelli))
+
+#### Authors: 1
+
+- Matheus Ricardo Uihara Zingarelli ([@zingarelli](https://github.com/zingarelli))
+
+---
+
 # v0.2.4 (Thu May 18 2023)
 
 #### ⚠️ Pushed to `main`

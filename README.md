@@ -52,6 +52,8 @@ Segue abaixo a lista de componentes disponíveis. Lembrando que você pode visua
 
 - `<AbTextInput />`: input de texto com uma label, em que é possível passar via props o texto para a label e o placeholder, bem como escolher o tipo do input (`text`, `passoword`, `email` e `date`).
 
+- `<AbModal /`>: um modal que recebe um título, um booleano para controlar se o modal está aberto ou fechado, e uma função onClose. Você pode adicionar conteúdo ao modal passando-o como `children`.
+
 ## O que eu aprendi
 
 ### TSDX
@@ -189,6 +191,8 @@ Here is the list of available components (their content is rendered in Portugues
 - `<AbTag />`: Renders a generic tag where you can add text or other elements as `children`. In the context of an e-commerce website, this component can be used to group products under the same category (tag).
 
 - `<AbTextInput />`: A text input with a label where you can pass the texts to the label and placeholder via props, as well as choose the input type (`text`, `password`, `email`, and `date`).
+
+- `<AbModal /`>: A modal that receives a title string, a boolean to open/close the modal and a onClose function. You can add content to the modal by passing other elements as `children`.
 
 ## Installation
 
